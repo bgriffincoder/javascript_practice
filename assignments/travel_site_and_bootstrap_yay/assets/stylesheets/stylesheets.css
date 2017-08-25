@@ -1,0 +1,65 @@
+body {
+  background-color: black;
+}
+
+.jumbotron{
+    background: url("../images/travel_hero.jpg") no-repeat center center;
+    -webkit-background-size: 100% 100%;
+    -moz-background-size: 100% 100%;
+    -o-background-size: 100% 100%;
+    background-size: 100% 100%;
+}
+
+.push-spaces
+{
+    height: 450px;
+}
+
+.container {
+   z-index:2;
+}
+
+.header {
+  margin-top:12%;
+  color:#fff;
+}
+
+.header h1 {
+   color:#000;
+}
+
+.well {
+   background-color: rgba(245, 245, 245, 0.4);
+}
+
+#spain {
+  background-image: url("../images/spain_flag.svg")
+}
+
+#italy {
+  background-image: url("../images/italy_flag.svg")
+}
+
+#aruba {
+  background-image: url("../images/aruba_flag.svg")
+}
+
+#chile {
+  background-image: url("../images/chile_flag.svg")
+}
+
+.card {
+  width: auto;
+  height: 200px;
+  background-size: contain;
+  background-repeat: no-repeat;
+  background-color: white;
+}
+
+#country {
+  background-color: white;
+}
+
+.cardcountry {
+  background-color: white;
+}
